@@ -1,0 +1,14 @@
+D:\Learning\DesignPartner\Creacionales\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+D:\Learning\DesignPartner\Creacionales\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+D:\Learning\DesignPartner\Creacionales\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+D:\Learning\DesignPartner\Creacionales\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+D:\Learning\DesignPartner\Creacionales\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+D:\Learning\DesignPartner\Creacionales\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\DesignPartner\Creacionales\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\Learning\DesignPartner\Creacionales\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+D:\Learning\DesignPartner\Creacionales\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Learning\DesignPartner\Creacionales\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+D:\Learning\DesignPartner\Creacionales\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+D:\Learning\DesignPartner\Creacionales\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+D:\Learning\DesignPartner\Creacionales\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+D:\Learning\DesignPartner\Creacionales\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll
